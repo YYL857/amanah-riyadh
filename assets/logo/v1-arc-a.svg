@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="AMANAH arc A">
+  <rect width="120" height="120" rx="36" fill="#F7E9EE"/>
+  <path d="M30 88 C30 52 48 28 60 28 C72 28 90 52 90 88" fill="none" stroke="#D46A7E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M42 88 C42 60 52 44 60 44 C68 44 78 60 78 88" fill="none" stroke="#D46A7E" stroke-width="4.5" stroke-linecap="round" opacity=".55"/>
+  <circle cx="60" cy="58" r="7" fill="#D46A7E"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AMANAH">
+  <title>AMANAH</title>
+  <rect width="512" height="512" rx="48" fill="#F7E9EE"/>
+  <g transform="translate(256,148)" fill="none" stroke="#D46A7E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-78 28 C-78 -52 78 -52 78 28"/>
+    <path d="M-68 28 C-68 -40 68 -40 68 28" opacity=".45" stroke-width="2.5"/>
+    <circle cx="-78" cy="28" r="3.5" fill="#D46A7E" stroke="none"/>
+    <circle cx="78" cy="28" r="3.5" fill="#D46A7E" stroke="none"/>
+    <path d="M-8 -8 C-28 4 -42 28 -38 48"/>
+    <circle cx="-10" cy="-14" r="9"/>
+    <path d="M-28 58 C-10 72 28 72 46 56"/>
+    <path d="M-22 58 C-8 48 18 46 36 56"/>
+    <circle cx="8" cy="42" r="7"/>
+    <path d="M14 44 C28 40 40 48 42 56"/>
+  </g>
+  <text x="256" y="310" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="600" letter-spacing="14" fill="#3A2A32">AMANAH</text>
+  <text x="256" y="352" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#D46A7E">&#x0623;&#x0645;&#x0627;&#x0646;&#x0629;</text>
+  <text x="256" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1.2" fill="#D46A7E">Soft care for mother and baby</text>
+</svg>

@@ -50,12 +50,22 @@ ul { list-style: none; padding: 0; }
   backdrop-filter: blur(12px);
 }
 .top__logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   font-family: var(--display);
   font-weight: 600;
-  font-size: 1.35rem;
-  letter-spacing: .18em;
+  font-size: 1.2rem;
+  letter-spacing: .16em;
   color: #fff;
   transition: color .35s;
+}
+.top__mark {
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 4px 14px rgba(42, 28, 34, .18);
 }
 .top.is-on .top__logo { color: var(--rose-deep); }
 .top__nav {
@@ -378,6 +388,14 @@ ul { list-style: none; padding: 0; }
   background: #1A1216;
   color: rgba(255, 248, 250, .5);
   text-align: center;
+}
+.foot__logo {
+  width: 88px;
+  height: 88px;
+  margin: 0 auto 16px;
+  border-radius: 22px;
+  object-fit: cover;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .35);
 }
 .foot__row {
   display: flex;

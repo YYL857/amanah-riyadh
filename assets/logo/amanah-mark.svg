@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="AMANAH">
+  <title>AMANAH mark</title>
+  <rect width="120" height="120" rx="36" fill="#F7E9EE"/>
+  <!-- soft cradle / embrace arc -->
+  <path d="M34 78 C34 48 52 32 60 32 C68 32 86 48 86 78"
+        fill="none" stroke="#D46A7E" stroke-width="5.5" stroke-linecap="round"/>
+  <!-- quiet center  child / trust -->
+  <circle cx="60" cy="62" r="9" fill="#D46A7E"/>
+  <!-- soft base whisper -->
+  <path d="M42 86 C50 92 70 92 78 86"
+        fill="none" stroke="#EFD6DE" stroke-width="3" stroke-linecap="round"/>
+</svg>
